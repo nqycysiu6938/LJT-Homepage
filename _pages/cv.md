@@ -11,35 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science (2024-Present), Hong Kong University of Science and Technology
+* B.Eng. (2020-2024), Shanghai Jiao Tong University (SJTU). Graduated June 2024.
 
-Work experience
+Awards
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Intern, MINIMAX (February 2025 - Present)
+* Research Intern, Tencent WXG (June 2024 - September 2024). Advisor: Zifei Shan.
+* Research Intern, Shanghai AI Lab (June 2023 - December 2023). Advisor: Prof. Yu Cheng.
+
+Research Interests
+======
+* LLM Reasoning and Reinforcement Learning
+* Hallucination in Vision-Language Models (VLM)
+* LLM truthfulness and Interpretability
 
 Publications
 ======
@@ -59,6 +48,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Contact
 ======
-* Currently signed in to 43 different slack teams
+* Email: jliugi@connect.ust.hk
+* GitHub: Vicent0205 (https://github.com/Vicent0205)
+* Google Scholar: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
+* X (Twitter): @junteng88716710
